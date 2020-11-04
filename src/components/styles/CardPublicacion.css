@@ -1,0 +1,153 @@
+.cardpublicaciones{
+    width: 80%;
+    position: absolute;
+    right: 0%;
+    margin-top: 5%;
+}
+.separadorpublicaciones{
+    margin: 1% 0%;
+    color: rgb(107, 107, 107);
+}
+.TituloPagePublicaciones{
+    width: 75%;
+    position: absolute;
+    right: 0%;
+    margin:4% 1%;
+    color: slategray;
+    font-weight: lighter;
+}
+
+#cartapublicacion{
+    width:90%;
+    margin:5%;    
+    text-align: justify;
+    background-color:whitesmoke;
+}
+.horapublicacion{
+    text-align: right;
+    margin-right: 4%;
+    font-size: 80%;
+}
+
+.circular--landscape {
+    display: inline-block;
+    position: relative;
+    width: 40px;
+    height: 40px;
+    overflow: hidden;
+    border-radius: 50%;
+    float: left;
+  }
+  .autordatospublicacion{
+    display: inline-block;
+    font-size: 120%;
+    margin: 0%;
+    font-weight: lighter;
+    float: left;
+
+  }
+  .datospublicacion{
+    display: inline-block;
+    font-size: 100%;
+    font-weight: normal;
+    margin-right: 1%;
+    float: right;
+  }
+  .circular--landscape img {
+    width: auto;
+    height: 100%;
+  }
+  strong{
+      font-weight: 600;
+  }
+  .botonespublicacion{
+    border: none;
+    display: inline-block;
+    font-size: 100%;
+    font-weight: normal;
+    margin-right: 1%;
+    float: right;
+  }
+  info{
+      position: relative;
+  }
+  .card-header{
+    padding:0.5%;
+}
+ .card-header.comentario{
+     padding:0.2%;
+ }
+ .card-text.comentario{
+    padding:1%;
+    font-size: 70%;
+}
+.card-text.publicacion{
+  padding:0%;
+  font-size: 90%;
+  margin-bottom: 0%;
+}
+.card-body.text-success{
+    padding: 0%;
+}
+.card.border-success{
+    margin-top: 1.5%;
+}
+
+
+.circular--landscape_com {
+    display: inline-block;
+    position: relative;
+    width: 30px;
+    height: 30px;
+    overflow: hidden;
+    border-radius: 50%;
+  }
+  .autordatospublicacion_com{
+    display: inline-block;
+    font-size: 90%;
+    margin: 0%;
+    font-weight: lighter;
+
+  }
+  .datospublicacion_com{
+    display: inline-block;
+    font-size: 80%;
+    font-weight: normal;
+    margin-right: 1%;
+    float: right;
+  }
+  .circular--landscape_com img {
+    width: auto;
+    height: 100%;
+  }
+ 
+  .botonespublicacion_com{
+    border: none;
+    display: inline-block;
+    margin-right: 1%;
+    float: right;
+    background-color:whitesmoke;
+  }
+  .input-group.com{
+      width: 85%;
+      float: left;
+  }
+  .comentar{
+    display: inline-block;
+    float: right;
+  }
+  .VerComentarios{
+    position: relative;  
+    margin-top: 8%;
+}
+.form-control.comentario{
+  font-size: 80%;
+}
+.addPublicacion{
+  position: fixed;
+  margin-top: 1%;
+  right: 1%;
+}
+.form-control.publicacion{
+ width: 100%;
+}

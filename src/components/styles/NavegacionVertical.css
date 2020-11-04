@@ -1,0 +1,39 @@
+.nav.flex-column{    
+    background-color:#28a745;
+    width: 20%;
+    height:610px;
+    position: fixed;
+    left:0%;
+    top: 0%;
+    background-attachment: fixed;
+}
+.nav-item.nv:hover{
+    background-color: seagreen;
+}
+
+.font-weight-light.nv{
+    color: #fff;
+}
+.rounded-circle{
+    margin:18%;
+}
+#Cerrar_NavVertical{
+    position: absolute;
+    bottom: 0%;
+}
+.font-weight-light.titulo{
+    color: snow;
+    font-style: italic;
+    text-align: center;
+}
+.navegacionsecciones{
+    width: 80%;
+    position: absolute;
+    right: 0%;
+    margin-top: 20px;
+}
+#editarperfil:hover{
+    cursor: pointer;
+}
+
+

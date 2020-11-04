@@ -1,0 +1,44 @@
+.card-columns.documentos{
+        width: 75%;
+        position: absolute;
+        right: 2%;
+        margin-top: 100px;
+    
+}
+.card-columns.documentos {
+      column-count:4;
+  }
+
+.card.mb-3{
+    display: inline-block;
+    margin-top: 4%;    
+    background-color:transparent;
+    border: none;
+}
+.card-text.documento{
+    font-size: 60%;
+    text-align: justify;
+    margin: 0%;
+}
+.card-body.doc{
+    padding:1% 0%;
+}
+.botonesdoc{
+    border: none;
+    display: inline-block;
+    font-size: 100%;
+    font-weight: normal;
+    margin-right: 1%;
+    float: right;
+  }
+.visualizador{
+    position: absolute;
+    right:0%;
+    bottom:0%;
+    background-color: red;
+}
+.addDocumento{
+    position: fixed;
+    margin-top: 1%;
+    right: 1%;
+  }

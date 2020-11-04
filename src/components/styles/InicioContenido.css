@@ -1,0 +1,31 @@
+.content{
+    max-width:100%;
+}
+.card.mb-2{
+    max-width: 45%;
+    margin:0% 3%;
+    display: inline-block;
+    border: none;
+}
+.card-text.font-weight-light{
+    text-align: justify; 
+}
+.imgContenido{
+    width:55%;
+    position: absolute;
+    top: 0;
+    right: 0;
+
+}
+.imgContenidoQS{
+    width:50%;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+.modal-title{
+    text-align: center;
+}
+#alert{
+    display: none;
+}

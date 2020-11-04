@@ -1,0 +1,12 @@
+#myTab{
+    width: 80%;
+    position: absolute;
+    right: 0%;
+}
+.font-weight-light.ns{
+    color:grey;
+}
+.font-weight-light.ns:hover{
+    color:black;
+    flood-color: hotpink;
+}

@@ -1,0 +1,42 @@
+.card-columns{
+    width: 80%;
+    position: absolute;
+    right: 0%;
+    margin-top: 50px;
+}
+
+#cartagrupo{
+    width:75%;
+    margin:8%;    
+    text-align: center;
+    background-color:whitesmoke;
+}
+.text-nombre-profe{
+    font-size: 70%;
+    margin-bottom: 2%;
+}
+#carta:hover{
+    cursor: pointer;
+}
+
+.AddGrupo:hover{
+    cursor: pointer;
+}
+.AddGrupo{
+    position: fixed;
+    right:1%;
+    bottom:1%;
+}
+.TituloPageGrupos{
+    width: 75%;
+    position: absolute;
+    right: 0%;
+    margin:2% 1%;
+    color: slategray;
+    font-weight: lighter;
+
+}
+.separador{
+    margin: 1% 0%;
+    color: rgb(107, 107, 107);
+}

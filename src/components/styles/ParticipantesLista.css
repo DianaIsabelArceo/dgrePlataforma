@@ -1,0 +1,23 @@
+.tableparticipantes{
+    position: absolute;
+    margin-top: 6%;
+    width: 75%;
+    right: 3%;
+}
+.thead-dark{
+    background-color: seagreen;
+    color: snow;    
+    text-align: center;
+}
+th{
+    padding: 1%;
+}
+td{
+    padding: 1%;
+    text-align: center;
+}
+.botonesacciones{
+    border: none;
+    background-color: transparent;
+    margin-right: 5%;
+}
